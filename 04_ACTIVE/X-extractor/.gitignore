@@ -1,0 +1,9 @@
+__pycache__/
+.env
+session.json
+knowledge/raw/*
+knowledge/evaluated/*
+knowledge/processed/*
+!knowledge/raw/.gitkeep
+!knowledge/evaluated/.gitkeep
+!knowledge/processed/.gitkeep

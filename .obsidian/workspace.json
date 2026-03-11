@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "0ea5ee4b2c3175ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa2faee5ba26c41a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "066441fc9eb04bcb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ec3774acab4c173",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2a580cdb4c33cd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b91ee8fa0df5834e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c3221bdd5aefa556",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "937870603c3bcdfd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4bd583ec95dec1cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fcf429fb895c0df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efcc21fcc6e387a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "dfd0f1e0336c2437",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "a557e0232795d9b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b5f3c74f62f7cf67",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2a2497f036a52a39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
+      "remotely-save:Remotely Save": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "066441fc9eb04bcb",
+  "lastOpenFiles": [
+    "docs/superpowers/plans/2026-03-11-x-extractor.md",
+    "docs/superpowers/plans",
+    "docs/superpowers/specs/2026-03-11-x-extractor-design.md",
+    "docs/superpowers/specs",
+    "docs/superpowers",
+    "docs",
+    "Welcome.md",
+    "00_CORE/CLAUDE.md",
+    "00_CORE/GEMINI.md",
+    "04_ACTIVE/X-extractor/decisions.md",
+    "00_CORE/triggers.md",
+    "00_CORE/guardrails.md",
+    "01_INTAKE/classifiers/skill.md",
+    "00_CORE/toolkit/README.md",
+    "01_INTAKE/classifiers/pattern.md",
+    "04_ACTIVE/X-extractor/context.md",
+    "01_INTAKE/classifiers/reference.md",
+    "01_INTAKE/classifiers/principle.md",
+    "00_CORE/toolkit/superpowers/LICENSE",
+    "04_ACTIVE/X-extractor/architecture.md",
+    "00_CORE/toolkit/superpowers/docs/testing.md",
+    "00_CORE/toolkit/gemini-skills/LICENSE",
+    "00_CORE/toolkit/superpowers/GEMINI.md",
+    "00_CORE/toolkit/superpowers/README.md",
+    "00_CORE/toolkit/obsidian-skills/LICENSE",
+    "00_CORE/toolkit/gemini-skills/README.md",
+    "00_CORE/toolkit/obsidian-skills/README.md",
+    "00_CORE/toolkit/superpowers/hooks/hooks.json",
+    "00_CORE/toolkit/superpowers/hooks/run-hook.cmd",
+    "00_CORE/toolkit/superpowers/hooks/session-start",
+    "00_CORE/toolkit/superpowers/RELEASE-NOTES.md",
+    "00_CORE/toolkit/superpowers/commands/brainstorm.md",
+    "00_CORE/toolkit/superpowers/docs/README.codex.md",
+    "00_CORE/toolkit/superpowers/agents/code-reviewer.md",
+    "00_CORE/toolkit/superpowers/commands/write-plan.md",
+    "00_CORE/toolkit/superpowers/commands/execute-plan.md"
+  ]
+}
